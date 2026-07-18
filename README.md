@@ -20,9 +20,8 @@ SQL data marts used to build a Tableau dashboard analysing customer journeys and
 | File | Description |
 |---|---|
 | `01_monthly_kpis.sql` | Monthly sessions, CVR, revenue and AOV |
-| `02_funnel_summary.sql` | Overall conversion funnel |
-| `03_daily_funnel.sql` | Daily funnel conversion trends |
-| `04_segment_performance.sql` | Device and acquisition channel analysis |
+| `02_funnel_summary.sql` | Overall conversion funnel, Daily funnel conversion trends |
+| `03_segment_performance.sql` | Device and acquisition channel analysis |
 
 ## Full Case Study
 
